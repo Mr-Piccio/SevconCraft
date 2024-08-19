@@ -1,8 +1,7 @@
-modpack in 1.16.4
+modpack in 1.20.1 (Basato sulla Valhelsia)
 Concept:
-server basato sul progresso tecnologico
+server basato sul progresso tecnologico/magico/esplorativo
 ruoli non troppo ferrei
-questbook guida e dedicati ai vari ruoli (early/post game)
 test
 
 
