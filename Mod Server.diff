@@ -20,21 +20,49 @@ Dipendenze o Librerie
 - Framework (curseforge)
 - Global Packs
 - Geckolib
+- GroovyModLoader (curseforge)
+- Iceberg
+- Kiwi
+- Konkrete
+- Kotlin For Forge
+- Krypton Reforged (curseforge)
+- KubeJS
+- KubeJS Ars Noveau
+- KubeJS Create
+- KubeJS Botania
+- KubeJS Delight
+- Lodestone
+- LootJS
+- Loot Integrations
+- Melody
+- Moonlight Lib
+- Obscure API
+- Oculus
+- Patchtouli
+- Placebo
+- Resourceful Config
+- Resourceful Liv
+- Rhino
+- Searchables
+- Sophisticated Core
+- SuperMartijn642's Core Lib
+- SuperMartijn642's Config Lib
+- TerraBlender
 Semi-Confermate
-- Ad Astra: downgrade da 1.15.5 a 1.12.7 (potenzialmente abbandonata)
-- Advancement Plaques: downgrade da 1.5.1 a 1.4.7
-- Alex's Mobs: downgrade da 1.22.8 a 1.21.1
-- Allurement: downgrade da 4.0 a 3.2.1
-- Ambient Environment: downgrade da 11.0.0.1 a 8.0+3
-- AmbientSounds: downgrade da 6.0.3 a 5.3.9
-- Appleskin: downgrade da 2.5.1 a 2.4.2
-- Applied Botanics: downgrade da 1.5.1 a 1.4.6 
-- AE2: downgrade da 15.2.9 a 12.9.9 (potenzialmente abbandonata)
-- AE2 Wireless Terminals: downgrade da 15.2.3 a 12.9.7
-- Applied Mekanistics: downgrade da 1.4.2 a 1.3.5
-- Aquaculture 2: downgrade da 2.5.2 a 2.4.17 (solo su CurseForge)
-- Artifacts: downgrade da 9.5.11 a 5.0.6
-- Autumny: downgrade 5.0.1 a 4.0.1
+- Ad Astra (potenzialmente abbandonata)
+- Advancement Plaques
+- Alex's Mobs
+- Allurement
+- Ambient Environment
+- AmbientSounds
+- Appleskin
+- Applied Botanics
+- AE2 (potenzialmente abbandonata)
+- AE2 Wireless Terminals
+- Applied Mekanistics
+- Aquaculture 2 (solo su CurseForge)
+- Artifacts
+- Autumny
 - Better Jukeboxes
 - Better Lily Pads
 - CarryOn
@@ -65,8 +93,44 @@ Semi-Confermate
 - Flux Networks
 - Forge CIT (CIT Resewn)
 - Fusion (Connected Textures)
-Pari
-- Advanced Peripherals: Stesse versioni
+- Immersive Engineering
+- Immersive Petroleum
+- Inventory Sorter
+- Jade + Jade Addon
+- Joy of Painting
+- EMI
+- KleeSlabs
+- Let Me Despawn
+- Light Overlay
+- Macaw's Bridges
+- Mekanism + Addons
+- ModernFix
+- Mouse Tweaks
+- Nature's Compass
+- Not Enough Animations
+- Polimorph
+- Polimorph Energetics
+- Quark
+- Rechiseled
+- RecipeEssental
+- RightClickHarvest
+- Sawmill
+- Server Performance - Smooth Chunk Save
+- ServerConfig Updater
+- Simple Backups
+- Simple Discord RPC
+- Snow! Real Magic!
+- Sodium/Embeddium Extras
+- Sophisticated Backpacks
+- Spark
+- Functional Storage
+- Advanced Peripherals
+- Structure Gel API
+- Supplementaries 
+- TexTrue's Embeddium Options
+- Toast Control
+- Toofast
+- Torchmaster
 Mancanti
 - Alex's Caves
 - Amendments
@@ -90,9 +154,34 @@ Da Togliere (cose inutili)
 - Dusk (Curseforge)
 - Elytra Slot
 - Enderman overhaul
-- essentail mond
+- essental mod
 - Enlightend
 - Goblin Traders
+- Hunters Return
+- macaw's trapdoors
+- minecolonies
+- Mowzie Mobs
+- Multi-Pistons
+- Neaplotan
+- Neat
+- Personality
+- Pigpen Cypher
+- Raised
+- Runelic
+- Snow Under Trees
+- Storage Labels
+- Storage Racks
+- Structurize
+- Structure Essentials
+- Tetra
+- Tetracelium
+- Tetranomicon
+- Aether
+- The Conjurer
+- Twilight Forest
+- The Undergarden
+- Tips
+- Tool Stats
 Forse Da Togliere
 - Aquamirae 
 - Ars Creo
@@ -124,3 +213,21 @@ Forse Da Togliere
 - FramedBlocks
 - Galosphere
 - Gardens of The Dead
+- Guard Villagers
+- Haunted Harvest
+- Heart & Home
+- Integrated Stuff
+- Inventory Hud+
+- Little Contraptions
+- Little Logistics
+- Malum
+- Music Maker Mod
+- Nether's Delight*
+- Netherific
+- Nether Portal Fix
+- Open Claims and Parties
+- OpenBlocks Elevator
+- Painting++
+- Panoramica
+- Rechiseled: Create
+- Sullys Mod
