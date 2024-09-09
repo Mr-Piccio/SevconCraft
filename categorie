@@ -3,7 +3,7 @@ Utility
 - Appleskin
 - CarryOn
 - Catalogue (solo Curseforge)
-- Clumps
+
 - Controlling
 - Default Options
 - Embeddium
@@ -34,9 +34,11 @@ Utility
 - Vertical Slab Compat
 - Xaero's Minimap
 - Xaero's Worldmap
+- FTB Ultimine
 
 World gen
 Immersive Weathering
+Tectonic
 
 Core
 - Artifacts
@@ -45,6 +47,8 @@ Core
 - Immersive Engineering
 - Immersive Petroleum
 - Mekanism + Addons
+- Pneumaticraft
+- Farmer's Delight
 
 Storage
 - AE2
@@ -56,9 +60,11 @@ Storage
 
 Decoration
 - Alex's Mobs
+- Alex's Delight
 - Ambient Environment
 - AmbientSounds
 - Aquaculture 2 (solo su CurseForge)
+- Aquaculture Delight
 - Better Jukeboxes
 - Better Lily Pads
 - Chat Heads
@@ -66,17 +72,21 @@ Decoration
 - Eating Animation (solo Curseforge)
 - Fairy Lights (curseforge)
 - Falling Leaves
+- Fast Leaves
 - Flower Patch
 - Joy of Painting
 - Macaw's Bridges
 - Not Enough Animations
 - Quark
+- Quark Delight
 - Rechiseled
 - Sawmill
 - Snow! Real Magic!
 - Supplementaries 
 - Torchmaster
 - Chipped
+- Immersive Posts
+- Engineer's Decor
 
 Server-side
 - Chunk Sending (solo su Curseforge)
@@ -91,3 +101,4 @@ Server-side
 - ServerConfig Updater
 - Simple Backups
 - Spark
+- Clumps
