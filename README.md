@@ -1,7 +1,11 @@
-modpack in 1.20.1 (Basato sulla Valhelsia)
+modpack in 1.19.2
+
+Automodpack-ato
+
 Concept:
-server basato sul progresso tecnologico/magico/esplorativo
-ruoli non troppo ferrei
+server basato sul progresso tecnologico
+
+
 test
 
 
